@@ -1,0 +1,12 @@
+0:Landing Craft
+1:TIE Fighters
+2:TIE Bombers
+3:Other Starfighters
+4:Transporters
+5:Command Ships
+6:TIE Support Craft
+7:Medium Ships
+8:Shuttles
+9:Heavy Ships
+10:TIE Experimental Craft
+11:Patrol Craft
