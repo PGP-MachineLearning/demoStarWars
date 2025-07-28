@@ -1,2 +1,3 @@
 # demoStarWars
-Ejemplo de procesamiento de datos de Naves de Star Wars usando IA
+Ejemplo de procesamiento de datos sonre Naves Imperiales de Star Wars 
+Fuente de datos: http://insd.swcombine.com/insd.htm
